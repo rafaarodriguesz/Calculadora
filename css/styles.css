@@ -81,6 +81,34 @@ html{
     width: 80%;
     position: relative;
     margin: auto;
-    background-color: aqua;
-    margin-top: 100px;
+    margin-top: 70px;
+}
+
+.line-1{
+    height: 1100;
+    width: 100%;
+    display: inline-block;
+    padding: 5px;
+}
+
+.button_style{
+    font-size: 50px;
+    border-radius: 10px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    margin: 0px 5px;
+}
+
+.line_side{
+
+}
+
+.line-2{
+    height: 300px;
+    width: 50px;
+    background-color: black;
+    position: absolute;
+    top: 30px;
+    right: 10px;
 }
