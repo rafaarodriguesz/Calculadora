@@ -74,3 +74,13 @@ html{
     border-radius: 5px;
 }
 
+/* Fundo dos buttons */
+
+.back_button{
+    height: 300px;
+    width: 80%;
+    position: relative;
+    margin: auto;
+    background-color: aqua;
+    margin-top: 100px;
+}
